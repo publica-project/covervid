@@ -1,12 +1,12 @@
 {
-	"name": "covervid",
-	"version": "1.0.0",
+	"name": "@publica/covervid",
+	"version": "1.0.1",
 	"homepage": "https://github.com/stefanerickson/covervid",
 	"author": "Stefan Erickson",
 	"devDependencies": {
-		"grunt": "~0.4.4",
-		"grunt-contrib-clean": "~0.5.0",
-		"grunt-contrib-uglify": "~0.4.0",
-		"grunt-contrib-watch": "~0.6.1"
+		"grunt": "^1.0.3",
+		"grunt-contrib-clean": "^1.1.0",
+		"grunt-contrib-uglify": "^3.4.0",
+		"grunt-contrib-watch": "^1.1.0"
 	}
 }
